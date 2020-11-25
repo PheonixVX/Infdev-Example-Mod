@@ -60,7 +60,7 @@ dependencies {
 
 	mappings "net.textilemc:yarrn:inf-20100618:v2"
 
-	modImplementation "com.github.minecraft-cursed-legacy:cursed-fabric-loader:${project.loader_version}"
+	modImplementation "com.github.PheonixVX:cursed-fabric-loader:8fa8b2f"
 }
 
 processResources {
