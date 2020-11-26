@@ -18,7 +18,7 @@
 
   "environment": "*",
   "entrypoints": {
-    "main": [
+    "init": [
       "net.fabricmc.example.ExampleMod"
     ]
   },
